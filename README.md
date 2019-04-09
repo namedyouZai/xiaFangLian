@@ -1,2 +1,2 @@
 # this is a weiChat project
-# 这是从微信小程序官方组件down下来的 只是作为自己的一个demo进行使用
+# 这是个微信小程序，只是各个组件的集成
